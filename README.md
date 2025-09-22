@@ -8,7 +8,7 @@ This React application provides a user interface for creating, viewing, updating
 ## Table of Contents
 - [Requirements](#requirements)
 - [Installation and Build the Project,Running the Backend](#installation-and-build-the-project-running-the-backend)
-- [Run the Backend](#run-the-backend)
+- [Run the Frontend](#run-the-frontend)
 - [Testing](#testing)
 - [Usage](#usage)
 
