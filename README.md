@@ -48,24 +48,25 @@ http://localhost:3000
 
 ## Usage
 
-Job Request Page:
+**Job Request Page**:
 
-  1.Create Job: Fill in Name, Method, Endpoint, Headers, and Body.
+        1.Create Job: Fill in Name, Method, Endpoint, Headers, and Body.
 
-  2.Update Job: Select PUT method and enter Job ID to update an existing job.
+        2.Update Job: Select PUT method and enter Job ID to update an existing job.
 
-  3.Delete Job: Select DELETE method and enter Job ID to delete a job.
+        3.Delete Job: Select DELETE method and enter Job ID to delete a job.
 
-  4.Execute Now or Schedule jobs using the execution options.
+        4.Execute Now or Schedule jobs using the execution options.
 
-List of All Jobs:
-  1.Displays all jobs fetched from the backend.
+**List of All Jobs**:
 
-  2.Mark a job as favorite using the ★ button.
+        1.Displays all jobs fetched from the backend.
 
-  3.Filter jobs by favorites using the “Show Favorites Only” checkbox.
+        2.Mark a job as favorite using the ★ button.
 
-  4.Click “Details” to see the full job JSON.
+        3.Filter jobs by favorites using the “Show Favorites Only” checkbox.
+
+        4.Click “Details” to see the full job JSON.
 
 
 
