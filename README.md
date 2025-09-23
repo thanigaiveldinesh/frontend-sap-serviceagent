@@ -26,11 +26,11 @@ This React application provides a user interface for creating, viewing, updating
 
    git clone https://github.com/thanigaiveldinesh/frontend-sap-serviceagent.git
    
-   cd service-agent-ui
+   cd frontend-sap-serviceagent
    
 2. **Install the Dependencies**:
 
-   Navigate to the <path-of-your-local>\service-agent-ui folder
+   Navigate to the <path-of-your-local>\frontend-sap-serviceagent
    
     npm install
 
