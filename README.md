@@ -34,6 +34,8 @@ This React application provides a user interface for creating, viewing, updating
    
     npm install
 
+    Note: Kindly ignore the warning and vulnerabilities incase anything shows
+
 4. **Run the Frontend**:
 
    npm start
