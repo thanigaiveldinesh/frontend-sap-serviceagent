@@ -30,7 +30,7 @@ This React application provides a user interface for creating, viewing, updating
    
 2. **Install the Dependencies**:
 
-   Navigate to the <path-of-your-local>\frontend-sap-serviceagent
+   Navigate to the cd path-of-your-local\frontend-sap-serviceagent [example: C:\SAP\Test\frontend-sap-serviceagent]
    
     npm install
 
